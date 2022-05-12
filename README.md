@@ -1,4 +1,4 @@
-# DSO566NLP
+# DSO560NLP
 This is Group Violet's final NLP project
 
 **Step1: Data Selection & Data Preprocessing (Part1).ipynb**
