@@ -6,3 +6,13 @@ This is Group Violet's final NLP project
 - Change positive and negative reviews to lowercase
 - Regularize all urls, hashtags, numbers, emails, emojis, and currency symbols
 - Remove all punctuations
+
+
+**Step3: Modeling
+- Random Forest
+-- Combine positive and negative reviews into a new column
+-- Data Encoding
+-- Train/Test Dataset Split
+-- Vectorization
+-- RandomForestClassifier
+-- Important Features
