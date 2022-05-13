@@ -22,3 +22,13 @@ This is Group Violet's final NLP project
 - Vectorization
 - RandomForestClassifier
 - Important Features
+
+**Step4: Modeling - Sentiment Analysis Model Based on Self-attention Mechanism （source: Professor Yu Chen's LSTMs and Self-Attention for NLP notebook)**
+- Data Processing
+- Load in GloVe Vectors
+- Text Tokenize
+- Load in Embeddings Matrix
+- Define LSTM Model
+- Train LSTM Model
+- Define LSTM Model
+- Train LSTM Model
