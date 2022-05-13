@@ -10,9 +10,9 @@ This is Group Violet's final NLP project
 
 **Step3: Modeling**
 - Random Forest
-- Combine positive and negative reviews into a new column
-- Data Encoding
-- Train/Test Dataset Split
-- Vectorization
-- RandomForestClassifier
-- Important Features
+  Combine positive and negative reviews into a new column
+  Data Encoding
+  Train/Test Dataset Split
+  Vectorization
+  RandomForestClassifier
+  Important Features
