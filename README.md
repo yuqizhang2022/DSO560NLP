@@ -15,7 +15,7 @@ This is Group Violet's final NLP project
 - Topic Modeling 
 
 
-**Step3: Modeling - Random Forest**
+**Step3: RF Feature Importance.ipynb**
 - Combine positive and negative reviews into a new column
 - Data Encoding
 - Train/Test Dataset Split
