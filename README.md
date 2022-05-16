@@ -25,8 +25,7 @@ Data Source: https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-
 - RandomForestClassifier
 - Important Features
 
-**Step4: Attention Model.ipynb
-(source: Professor Yu Chen's LSTMs and Self-Attention for NLP notebook)**
+**Step4: Attention Model.ipynb**
 - Data Processing
 - Load in GloVe Vectors
 - Text Tokenize
