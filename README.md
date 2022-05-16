@@ -1,5 +1,6 @@
 # DSO560NLP
-This is Group Violet's final NLP project \n
+This is Group Violet's final NLP project
+
 Data Source: https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe
 
 **Step1: Data Selection & Data Preprocessing (Part1).ipynb**
